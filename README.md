@@ -29,6 +29,13 @@ SecurityShop
   * Procesamiento de pago
   * Base de datos de productos
   * Información de pedidos
+  * Código fuente de los microservicios
+  * Logs y registros de auditoría
+  * Base de datos de pedidos
+  * Base de datos de usuarios
+  * API Gateway 
+
+
 
 * Clasificar cada activo según:
   * información;
